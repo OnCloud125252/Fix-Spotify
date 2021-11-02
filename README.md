@@ -1,8 +1,8 @@
 # Fix-Spotify
 
-如果您有遇到 Spotify 打開之後畫面變全黑，也許這個檔案可以幫助您。
+如果您有遇到電腦版 Spotify 打開之後畫面變全黑，也許這個檔案可以幫助您。
 
-* Spotify 打開之後呈現黑畫面
+* 電腦版 Spotify 打開之後呈現黑畫面
 
 ![spotify](https://cdn.discordapp.com/attachments/805273033438134332/905076396177653780/Screenshot_2021-11-02_204920.png)
 
