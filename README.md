@@ -1,8 +1,8 @@
 # 目錄
 
 * [電腦版Spotify黑畫面](#電腦版Spotify黑畫面)
+* [注意事項](#注意事項) (很重要 !!!)
 * [解決辦法](#解決辦法)
-* [注意事項](#注意事項) (如果遇到問題，可以參考這邊)
 * [支援環境](#支援環境)
 * [需要幫助?](#幫助)
 
@@ -14,6 +14,13 @@
 
 ![spotify](https://cdn.discordapp.com/attachments/805273033438134332/905076396177653780/Screenshot_2021-11-02_204920.png)
 
+# 注意事項
+
+以上方法只適用於從普通安裝包安裝的程式，並不支援從 Microsoft Store 安裝的程式。
+
+您的 Spotify 如果是從 Microsoft Store 安裝的，請解除安裝後重新使用以下安裝包安裝。
+
+* [SpotifySetup](https://cdn.discordapp.com/attachments/805273033438134332/905079860928581632/SpotifySetup.exe)
 
 # 解決辦法
 
@@ -44,15 +51,6 @@
 ![spotify](https://cdn.discordapp.com/attachments/805273033438134332/905105857954578452/Screenshot_2021-11-02_224619.png)
 
 
-# 注意事項
-
-以上方法只適用於從普通安裝包安裝的程式，並不支援從 Microsoft Store 安裝的程式。
-
-您的 Spotify 如果是從 Microsoft Store 安裝的，請解除安裝後重新使用以下安裝包安裝。
-
-* [SpotifySetup](https://cdn.discordapp.com/attachments/805273033438134332/905079860928581632/SpotifySetup.exe)
-
-
 # 支援環境
 
 * 作業系統
@@ -74,6 +72,7 @@
 > | 繁體中文 | [v] |
 > | 英文     | [x] |
 
+
 # 幫助
 
 如果在操作過程中遇到困難，或是想提供更好的意見，歡迎前往 [Issues 頁面](https://github.com/Anonymous-AAAA/Fix-Spotify/issues) 聯繫我，我會盡快回復。
@@ -85,4 +84,5 @@
 多多分享有益身心健康
 
 ![Art By Aoi Ogata](https://cdn.discordapp.com/attachments/805273033438134332/905116788256276550/89029545_p0_master1200.jpg)
+
 ***Art By Aoi Ogata***
